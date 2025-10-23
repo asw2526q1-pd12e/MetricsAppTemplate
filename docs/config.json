@@ -6,7 +6,7 @@
         "issues","pull-requests","projects"
     ],
     "excluded_members": [
-        "carlesf", "Marcoss26", "EricMorenoRuiz", "Thundeeerrr", "abeeet", "professor-asw"
+        "carlesf", "professor-asw"
     ],
     "excluded_repos": [
         "MetricsAppTemplate"
