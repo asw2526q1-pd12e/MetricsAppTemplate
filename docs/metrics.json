@@ -8,18 +8,18 @@
         "Thundeeerrr": "https://avatars.githubusercontent.com/u/231907320?v=4"
     },
     "commits": {
-        "abeeet": 10,
+        "abeeet": 11,
         "EricMorenoRuiz": 0,
         "Marcoss26": 2,
         "Thundeeerrr": 0,
         "anonymous": 2,
-        "total": 14
+        "total": 15
     },
     "modified_lines": {
         "abeeet": {
-            "additions": 768686,
-            "deletions": 1367,
-            "modified": 770053
+            "additions": 768810,
+            "deletions": 1382,
+            "modified": 770192
         },
         "EricMorenoRuiz": {
             "additions": 0,
@@ -37,9 +37,9 @@
             "modified": 0
         },
         "total": {
-            "additions": 768721,
-            "deletions": 1367,
-            "modified": 770088
+            "additions": 768845,
+            "deletions": 1382,
+            "modified": 770227
         }
     },
     "commit_streak": {
@@ -311,8 +311,8 @@
                 "total_tasks": 0,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
-                "total_features_in_progress": 1,
-                "total_features_in_review": 1,
+                "total_features_in_progress": 0,
+                "total_features_in_review": 2,
                 "total_features_ready": 0,
                 "total_features_done": 0,
                 "total": 7
@@ -366,8 +366,8 @@
                 "total_tasks": 0,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
-                "total_features_in_progress": 1,
-                "total_features_in_review": 1,
+                "total_features_in_progress": 0,
+                "total_features_in_review": 2,
                 "total_features_ready": 0,
                 "total_features_done": 0,
                 "total": 7
