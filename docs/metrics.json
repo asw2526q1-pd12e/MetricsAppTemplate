@@ -61,7 +61,7 @@
             "EricMorenoRuiz": 0,
             "Marcoss26": 0,
             "Thundeeerrr": 0,
-            "non_assigned": 6
+            "non_assigned": 7
         },
         "closed": {
             "abeeet": 0,
@@ -72,7 +72,7 @@
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
         "total_closed": 2,
-        "total": 9
+        "total": 10
     },
     "project": {
         "has_iterations": true,
