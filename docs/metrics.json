@@ -8,18 +8,18 @@
         "Thundeeerrr": "https://avatars.githubusercontent.com/u/231907320?v=4"
     },
     "commits": {
-        "abeeet": 9,
+        "abeeet": 10,
         "EricMorenoRuiz": 0,
         "Marcoss26": 2,
         "Thundeeerrr": 0,
         "anonymous": 2,
-        "total": 13
+        "total": 14
     },
     "modified_lines": {
         "abeeet": {
-            "additions": 767116,
-            "deletions": 1343,
-            "modified": 768459
+            "additions": 768686,
+            "deletions": 1367,
+            "modified": 770053
         },
         "EricMorenoRuiz": {
             "additions": 0,
@@ -37,9 +37,9 @@
             "modified": 0
         },
         "total": {
-            "additions": 767151,
-            "deletions": 1343,
-            "modified": 768494
+            "additions": 768721,
+            "deletions": 1367,
+            "modified": 770088
         }
     },
     "commit_streak": {
