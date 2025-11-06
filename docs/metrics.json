@@ -9,11 +9,11 @@
     },
     "commits": {
         "abeeet": 16,
-        "EricMorenoRuiz": 0,
+        "EricMorenoRuiz": 1,
         "Marcoss26": 2,
         "Thundeeerrr": 2,
         "anonymous": 2,
-        "total": 22
+        "total": 23
     },
     "modified_lines": {
         "abeeet": {
@@ -22,9 +22,9 @@
             "modified": 790205
         },
         "EricMorenoRuiz": {
-            "additions": 0,
-            "deletions": 0,
-            "modified": 0
+            "additions": 82,
+            "deletions": 6,
+            "modified": 88
         },
         "Marcoss26": {
             "additions": 35,
@@ -37,21 +37,21 @@
             "modified": 225
         },
         "total": {
-            "additions": 770505,
-            "deletions": 19960,
-            "modified": 790465
+            "additions": 770587,
+            "deletions": 19966,
+            "modified": 790553
         }
     },
     "commit_streak": {
         "abeeet": 1,
-        "EricMorenoRuiz": 0,
+        "EricMorenoRuiz": 1,
         "Marcoss26": 0,
         "Thundeeerrr": 1
     },
     "commit_merges": 11,
     "longest_commit_streak_per_user": {
         "abeeet": 1,
-        "EricMorenoRuiz": 0,
+        "EricMorenoRuiz": 1,
         "Marcoss26": 0,
         "Thundeeerrr": 1
     },
@@ -60,7 +60,7 @@
             "abeeet": 3,
             "EricMorenoRuiz": 0,
             "Marcoss26": 0,
-            "Thundeeerrr": 2,
+            "Thundeeerrr": 3,
             "non_assigned": 7
         },
         "closed": {
@@ -72,7 +72,7 @@
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
         "total_closed": 2,
-        "total": 12
+        "total": 13
     },
     "project": {
         "has_iterations": true,
@@ -305,7 +305,7 @@
                 "in_review": 0,
                 "ready": 0,
                 "done": 0,
-                "total_issues": 12,
+                "total_issues": 13,
                 "total_issues_with_type": 2,
                 "total_features": 2,
                 "total_tasks": 0,
@@ -315,7 +315,7 @@
                 "total_features_in_review": 2,
                 "total_features_ready": 0,
                 "total_features_done": 0,
-                "total": 12
+                "total": 13
             },
             "total": {
                 "assigned_per_member": {
@@ -360,7 +360,7 @@
                 "in_review": 0,
                 "ready": 0,
                 "done": 0,
-                "total_issues": 12,
+                "total_issues": 13,
                 "total_issues_with_type": 2,
                 "total_features": 2,
                 "total_tasks": 0,
@@ -370,7 +370,7 @@
                 "total_features_in_review": 2,
                 "total_features_ready": 0,
                 "total_features_done": 0,
-                "total": 12
+                "total": 13
             }
         }
     },
