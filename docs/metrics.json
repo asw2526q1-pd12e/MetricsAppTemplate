@@ -48,7 +48,7 @@
         "Marcoss26": 0,
         "Thundeeerrr": 1
     },
-    "commit_merges": 9,
+    "commit_merges": 10,
     "longest_commit_streak_per_user": {
         "abeeet": 1,
         "EricMorenoRuiz": 0,
@@ -379,17 +379,17 @@
             "abeeet": 6,
             "EricMorenoRuiz": 0,
             "Marcoss26": 0,
-            "Thundeeerrr": 0
+            "Thundeeerrr": 1
         },
         "merged_per_member": {
             "abeeet": 5,
             "EricMorenoRuiz": 0,
             "Marcoss26": 0,
-            "Thundeeerrr": 0
+            "Thundeeerrr": 1
         },
-        "merged": 5,
+        "merged": 6,
         "not_merged_by_author": 0,
         "closed": 1,
-        "total": 6
+        "total": 7
     }
 }
