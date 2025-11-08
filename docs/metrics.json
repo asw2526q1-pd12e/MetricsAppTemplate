@@ -46,7 +46,7 @@
         "abeeet": 1,
         "EricMorenoRuiz": 2,
         "Marcoss26": 1,
-        "Thundeeerrr": 1
+        "Thundeeerrr": 0
     },
     "commit_merges": 18,
     "longest_commit_streak_per_user": {
@@ -140,17 +140,17 @@
                 "in_review": 0,
                 "ready": 0,
                 "done": 0,
-                "total_issues": 0,
-                "total_issues_with_type": 0,
-                "total_features": 0,
+                "total_issues": 18,
+                "total_issues_with_type": 2,
+                "total_features": 2,
                 "total_tasks": 0,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_in_progress": 0,
-                "total_features_in_review": 0,
+                "total_features_in_review": 2,
                 "total_features_ready": 0,
                 "total_features_done": 0,
-                "total": 0
+                "total": 18
             },
             "Iteration 2": {
                 "assigned_per_member": {
@@ -305,17 +305,17 @@
                 "in_review": 0,
                 "ready": 0,
                 "done": 0,
-                "total_issues": 18,
-                "total_issues_with_type": 2,
-                "total_features": 2,
+                "total_issues": 0,
+                "total_issues_with_type": 0,
+                "total_features": 0,
                 "total_tasks": 0,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_in_progress": 0,
-                "total_features_in_review": 2,
+                "total_features_in_review": 0,
                 "total_features_ready": 0,
                 "total_features_done": 0,
-                "total": 18
+                "total": 0
             },
             "total": {
                 "assigned_per_member": {
