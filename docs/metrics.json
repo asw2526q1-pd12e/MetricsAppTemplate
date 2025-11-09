@@ -377,7 +377,7 @@
     "pull_requests": {
         "created": {
             "abeeet": 6,
-            "EricMorenoRuiz": 1,
+            "EricMorenoRuiz": 2,
             "Marcoss26": 1,
             "Thundeeerrr": 4
         },
@@ -390,6 +390,6 @@
         "merged": 11,
         "not_merged_by_author": 1,
         "closed": 1,
-        "total": 12
+        "total": 13
     }
 }
