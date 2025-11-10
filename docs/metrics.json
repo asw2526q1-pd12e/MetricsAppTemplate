@@ -57,7 +57,7 @@
     },
     "issues": {
         "assigned": {
-            "abeeet": 3,
+            "abeeet": 4,
             "EricMorenoRuiz": 3,
             "Marcoss26": 5,
             "Thundeeerrr": 3,
@@ -72,7 +72,7 @@
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
         "total_closed": 2,
-        "total": 20
+        "total": 21
     },
     "project": {
         "has_iterations": true,
@@ -305,7 +305,7 @@
                 "in_review": 0,
                 "ready": 0,
                 "done": 0,
-                "total_issues": 1,
+                "total_issues": 2,
                 "total_issues_with_type": 0,
                 "total_features": 0,
                 "total_tasks": 0,
@@ -315,7 +315,7 @@
                 "total_features_in_review": 0,
                 "total_features_ready": 0,
                 "total_features_done": 0,
-                "total": 1
+                "total": 2
             },
             "total": {
                 "assigned_per_member": {
@@ -360,7 +360,7 @@
                 "in_review": 0,
                 "ready": 0,
                 "done": 0,
-                "total_issues": 19,
+                "total_issues": 20,
                 "total_issues_with_type": 2,
                 "total_features": 2,
                 "total_tasks": 0,
@@ -370,7 +370,7 @@
                 "total_features_in_review": 2,
                 "total_features_ready": 0,
                 "total_features_done": 0,
-                "total": 19
+                "total": 20
             }
         }
     },
