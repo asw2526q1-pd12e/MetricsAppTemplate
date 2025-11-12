@@ -9,11 +9,11 @@
     },
     "commits": {
         "abeeet": 52,
-        "EricMorenoRuiz": 13,
+        "EricMorenoRuiz": 14,
         "Marcoss26": 18,
         "Thundeeerrr": 12,
         "anonymous": 2,
-        "total": 97
+        "total": 98
     },
     "modified_lines": {
         "abeeet": {
@@ -22,9 +22,9 @@
             "modified": 2641994
         },
         "EricMorenoRuiz": {
-            "additions": 657,
-            "deletions": 254,
-            "modified": 911
+            "additions": 710,
+            "deletions": 276,
+            "modified": 986
         },
         "Marcoss26": {
             "additions": 891,
@@ -37,9 +37,9 @@
             "modified": 798
         },
         "total": {
-            "additions": 1438342,
-            "deletions": 1206583,
-            "modified": 2644925
+            "additions": 1438395,
+            "deletions": 1206605,
+            "modified": 2645000
         }
     },
     "commit_streak": {
