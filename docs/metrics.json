@@ -65,13 +65,13 @@
         },
         "closed": {
             "abeeet": 6,
-            "EricMorenoRuiz": 0,
+            "EricMorenoRuiz": 1,
             "Marcoss26": 0,
             "Thundeeerrr": 5
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 13,
+        "total_closed": 14,
         "total": 26
     },
     "project": {
