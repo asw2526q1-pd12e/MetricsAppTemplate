@@ -64,14 +64,14 @@
             "non_assigned": 7
         },
         "closed": {
-            "abeeet": 1,
+            "abeeet": 4,
             "EricMorenoRuiz": 0,
             "Marcoss26": 0,
             "Thundeeerrr": 0
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 4,
+        "total_closed": 7,
         "total": 24
     },
     "project": {
@@ -147,9 +147,9 @@
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_in_progress": 0,
-                "total_features_in_review": 1,
+                "total_features_in_review": 0,
                 "total_features_ready": 0,
-                "total_features_done": 1,
+                "total_features_done": 2,
                 "total": 18
             },
             "Iteration 2": {
@@ -367,9 +367,9 @@
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_in_progress": 0,
-                "total_features_in_review": 2,
+                "total_features_in_review": 1,
                 "total_features_ready": 0,
-                "total_features_done": 1,
+                "total_features_done": 2,
                 "total": 23
             }
         }
