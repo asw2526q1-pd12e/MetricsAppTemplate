@@ -61,7 +61,7 @@
             "EricMorenoRuiz": 5,
             "Marcoss26": 5,
             "Thundeeerrr": 5,
-            "non_assigned": 6
+            "non_assigned": 7
         },
         "closed": {
             "abeeet": 6,
@@ -71,8 +71,8 @@
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 18,
-        "total": 27
+        "total_closed": 19,
+        "total": 28
     },
     "project": {
         "has_iterations": true,
@@ -305,17 +305,17 @@
                 "in_review": 0,
                 "ready": 0,
                 "done": 0,
-                "total_issues": 8,
-                "total_issues_with_type": 1,
-                "total_features": 1,
+                "total_issues": 9,
+                "total_issues_with_type": 2,
+                "total_features": 2,
                 "total_tasks": 0,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 1,
                 "total_features_ready": 0,
-                "total_features_done": 0,
-                "total": 8
+                "total_features_done": 1,
+                "total": 9
             },
             "total": {
                 "assigned_per_member": {
@@ -360,17 +360,17 @@
                 "in_review": 0,
                 "ready": 0,
                 "done": 0,
-                "total_issues": 26,
-                "total_issues_with_type": 3,
-                "total_features": 3,
+                "total_issues": 27,
+                "total_issues_with_type": 4,
+                "total_features": 4,
                 "total_tasks": 0,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 1,
                 "total_features_ready": 0,
-                "total_features_done": 2,
-                "total": 26
+                "total_features_done": 3,
+                "total": 27
             }
         }
     },
