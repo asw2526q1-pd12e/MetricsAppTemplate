@@ -59,19 +59,19 @@
         "assigned": {
             "abeeet": 7,
             "EricMorenoRuiz": 5,
-            "Marcoss26": 5,
+            "Marcoss26": 6,
             "Thundeeerrr": 6,
-            "non_assigned": 7
+            "non_assigned": 6
         },
         "closed": {
             "abeeet": 7,
             "EricMorenoRuiz": 4,
-            "Marcoss26": 5,
+            "Marcoss26": 6,
             "Thundeeerrr": 5
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 26,
+        "total_closed": 27,
         "total": 30
     },
     "project": {
