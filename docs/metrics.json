@@ -59,14 +59,14 @@
         "assigned": {
             "abeeet": 11,
             "EricMorenoRuiz": 8,
-            "Marcoss26": 9,
+            "Marcoss26": 10,
             "Thundeeerrr": 6,
-            "non_assigned": 4
+            "non_assigned": 3
         },
         "closed": {
             "abeeet": 11,
             "EricMorenoRuiz": 8,
-            "Marcoss26": 9,
+            "Marcoss26": 10,
             "Thundeeerrr": 6
         },
         "have_pull_request": 0,
@@ -103,7 +103,7 @@
                     "EricMorenoRuiz": 0,
                     "Marcoss26": 0,
                     "Thundeeerrr": 0,
-                    "non_assigned": 0
+                    "non_assigned": 1
                 },
                 "backlog_per_member": {
                     "abeeet": 0,
@@ -132,17 +132,17 @@
                 "backlog": 0,
                 "in_progress": 0,
                 "in_review": 0,
-                "done": 0,
-                "total_issues": 7,
-                "total_issues_with_type": 7,
-                "total_features": 7,
-                "total_tasks": 0,
+                "done": 1,
+                "total_issues": 10,
+                "total_issues_with_type": 10,
+                "total_features": 9,
+                "total_tasks": 1,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
-                "total_features_done": 7,
-                "total": 7
+                "total_features_done": 9,
+                "total": 10
             },
             "Iteration 3": {
                 "assigned_per_member": {
@@ -274,16 +274,16 @@
                 "in_progress": 0,
                 "in_review": 0,
                 "done": 0,
-                "total_issues": 4,
-                "total_issues_with_type": 4,
-                "total_features": 4,
+                "total_issues": 1,
+                "total_issues_with_type": 1,
+                "total_features": 1,
                 "total_tasks": 0,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
-                "total_features_done": 4,
-                "total": 4
+                "total_features_done": 1,
+                "total": 1
             },
             "total": {
                 "assigned_per_member": {
@@ -291,7 +291,7 @@
                     "EricMorenoRuiz": 0,
                     "Marcoss26": 0,
                     "Thundeeerrr": 0,
-                    "non_assigned": 0
+                    "non_assigned": 1
                 },
                 "backlog_per_member": {
                     "abeeet": 0,
@@ -320,16 +320,16 @@
                 "backlog": 0,
                 "in_progress": 0,
                 "in_review": 0,
-                "done": 0,
+                "done": 1,
                 "total_issues": 37,
                 "total_issues_with_type": 37,
-                "total_features": 37,
-                "total_tasks": 0,
+                "total_features": 36,
+                "total_tasks": 1,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
-                "total_features_done": 37,
+                "total_features_done": 36,
                 "total": 37
             }
         }
