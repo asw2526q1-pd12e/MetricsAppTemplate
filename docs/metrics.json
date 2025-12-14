@@ -8,18 +8,18 @@
         "Thundeeerrr": "https://avatars.githubusercontent.com/u/231907320?v=4"
     },
     "commits": {
-        "abeeet": 70,
+        "abeeet": 71,
         "EricMorenoRuiz": 30,
         "Marcoss26": 29,
         "Thundeeerrr": 24,
         "anonymous": 3,
-        "total": 156
+        "total": 157
     },
     "modified_lines": {
         "abeeet": {
-            "additions": 1440576,
-            "deletions": 1204284,
-            "modified": 2644860
+            "additions": 1440578,
+            "deletions": 1204291,
+            "modified": 2644869
         },
         "EricMorenoRuiz": {
             "additions": 70426,
@@ -37,9 +37,9 @@
             "modified": 54223
         },
         "total": {
-            "additions": 1549015,
-            "deletions": 1235967,
-            "modified": 2784982
+            "additions": 1549017,
+            "deletions": 1235974,
+            "modified": 2784991
         }
     },
     "commit_streak": {
@@ -61,7 +61,7 @@
             "EricMorenoRuiz": 9,
             "Marcoss26": 10,
             "Thundeeerrr": 7,
-            "non_assigned": 1
+            "non_assigned": 4
         },
         "closed": {
             "abeeet": 11,
@@ -72,7 +72,7 @@
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
         "total_closed": 38,
-        "total": 38
+        "total": 41
     },
     "project": {
         "has_iterations": true,
@@ -274,7 +274,7 @@
                 "in_progress": 0,
                 "in_review": 0,
                 "done": 0,
-                "total_issues": 0,
+                "total_issues": 2,
                 "total_issues_with_type": 0,
                 "total_features": 0,
                 "total_tasks": 0,
@@ -283,7 +283,7 @@
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
                 "total_features_done": 0,
-                "total": 0
+                "total": 2
             },
             "total": {
                 "assigned_per_member": {
@@ -321,7 +321,7 @@
                 "in_progress": 0,
                 "in_review": 0,
                 "done": 11,
-                "total_issues": 37,
+                "total_issues": 39,
                 "total_issues_with_type": 37,
                 "total_features": 26,
                 "total_tasks": 11,
@@ -330,7 +330,7 @@
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
                 "total_features_done": 26,
-                "total": 37
+                "total": 39
             }
         }
     },
