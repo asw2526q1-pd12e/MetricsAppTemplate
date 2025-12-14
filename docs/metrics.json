@@ -8,23 +8,23 @@
         "Thundeeerrr": "https://avatars.githubusercontent.com/u/231907320?v=4"
     },
     "commits": {
-        "abeeet": 71,
-        "EricMorenoRuiz": 30,
+        "abeeet": 72,
+        "EricMorenoRuiz": 32,
         "Marcoss26": 29,
         "Thundeeerrr": 24,
         "anonymous": 3,
-        "total": 157
+        "total": 160
     },
     "modified_lines": {
         "abeeet": {
-            "additions": 1440578,
-            "deletions": 1204291,
-            "modified": 2644869
+            "additions": 1440962,
+            "deletions": 1204343,
+            "modified": 2645305
         },
         "EricMorenoRuiz": {
-            "additions": 70426,
-            "deletions": 13034,
-            "modified": 83460
+            "additions": 70855,
+            "deletions": 13242,
+            "modified": 84097
         },
         "Marcoss26": {
             "additions": 1806,
@@ -37,18 +37,18 @@
             "modified": 54223
         },
         "total": {
-            "additions": 1549017,
-            "deletions": 1235974,
-            "modified": 2784991
+            "additions": 1549830,
+            "deletions": 1236234,
+            "modified": 2786064
         }
     },
     "commit_streak": {
         "abeeet": 1,
-        "EricMorenoRuiz": 0,
+        "EricMorenoRuiz": 1,
         "Marcoss26": 0,
         "Thundeeerrr": 1
     },
-    "commit_merges": 77,
+    "commit_merges": 79,
     "longest_commit_streak_per_user": {
         "abeeet": 4,
         "EricMorenoRuiz": 4,
@@ -336,20 +336,20 @@
     },
     "pull_requests": {
         "created": {
-            "abeeet": 17,
-            "EricMorenoRuiz": 15,
+            "abeeet": 18,
+            "EricMorenoRuiz": 16,
             "Marcoss26": 17,
             "Thundeeerrr": 15
         },
         "merged_per_member": {
-            "abeeet": 18,
+            "abeeet": 19,
             "EricMorenoRuiz": 12,
             "Marcoss26": 14,
             "Thundeeerrr": 13
         },
-        "merged": 57,
-        "not_merged_by_author": 43,
+        "merged": 58,
+        "not_merged_by_author": 44,
         "closed": 7,
-        "total": 64
+        "total": 66
     }
 }
