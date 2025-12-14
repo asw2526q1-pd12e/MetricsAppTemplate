@@ -8,18 +8,18 @@
         "Thundeeerrr": "https://avatars.githubusercontent.com/u/231907320?v=4"
     },
     "commits": {
-        "abeeet": 75,
+        "abeeet": 76,
         "EricMorenoRuiz": 32,
         "Marcoss26": 29,
         "Thundeeerrr": 24,
         "anonymous": 3,
-        "total": 163
+        "total": 164
     },
     "modified_lines": {
         "abeeet": {
-            "additions": 1441894,
-            "deletions": 1204600,
-            "modified": 2646494
+            "additions": 1441909,
+            "deletions": 1204629,
+            "modified": 2646538
         },
         "EricMorenoRuiz": {
             "additions": 70855,
@@ -37,9 +37,9 @@
             "modified": 54223
         },
         "total": {
-            "additions": 1550762,
-            "deletions": 1236491,
-            "modified": 2787253
+            "additions": 1550777,
+            "deletions": 1236520,
+            "modified": 2787297
         }
     },
     "commit_streak": {
@@ -48,7 +48,7 @@
         "Marcoss26": 0,
         "Thundeeerrr": 1
     },
-    "commit_merges": 83,
+    "commit_merges": 84,
     "longest_commit_streak_per_user": {
         "abeeet": 4,
         "EricMorenoRuiz": 4,
@@ -342,12 +342,12 @@
             "Thundeeerrr": 15
         },
         "merged_per_member": {
-            "abeeet": 19,
+            "abeeet": 20,
             "EricMorenoRuiz": 15,
             "Marcoss26": 14,
             "Thundeeerrr": 13
         },
-        "merged": 61,
+        "merged": 62,
         "not_merged_by_author": 47,
         "closed": 7,
         "total": 69
