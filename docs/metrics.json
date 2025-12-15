@@ -9,11 +9,11 @@
     },
     "commits": {
         "abeeet": 77,
-        "EricMorenoRuiz": 32,
+        "EricMorenoRuiz": 35,
         "Marcoss26": 29,
         "Thundeeerrr": 24,
         "anonymous": 3,
-        "total": 165
+        "total": 168
     },
     "modified_lines": {
         "abeeet": {
@@ -22,9 +22,9 @@
             "modified": 2648448
         },
         "EricMorenoRuiz": {
-            "additions": 70855,
-            "deletions": 13242,
-            "modified": 84097
+            "additions": 71872,
+            "deletions": 13839,
+            "modified": 85711
         },
         "Marcoss26": {
             "additions": 1806,
@@ -37,18 +37,18 @@
             "modified": 54223
         },
         "total": {
-            "additions": 1552091,
-            "deletions": 1237116,
-            "modified": 2789207
+            "additions": 1553108,
+            "deletions": 1237713,
+            "modified": 2790821
         }
     },
     "commit_streak": {
         "abeeet": 1,
-        "EricMorenoRuiz": 1,
+        "EricMorenoRuiz": 2,
         "Marcoss26": 0,
         "Thundeeerrr": 1
     },
-    "commit_merges": 85,
+    "commit_merges": 87,
     "longest_commit_streak_per_user": {
         "abeeet": 4,
         "EricMorenoRuiz": 4,
@@ -58,21 +58,21 @@
     "issues": {
         "assigned": {
             "abeeet": 13,
-            "EricMorenoRuiz": 9,
+            "EricMorenoRuiz": 10,
             "Marcoss26": 10,
             "Thundeeerrr": 7,
             "non_assigned": 6
         },
         "closed": {
             "abeeet": 11,
-            "EricMorenoRuiz": 9,
+            "EricMorenoRuiz": 10,
             "Marcoss26": 10,
             "Thundeeerrr": 7
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 38,
-        "total": 45
+        "total_closed": 40,
+        "total": 46
     },
     "project": {
         "has_iterations": true,
@@ -133,16 +133,16 @@
                 "in_progress": 0,
                 "in_review": 0,
                 "done": 0,
-                "total_issues": 0,
-                "total_issues_with_type": 0,
-                "total_features": 0,
+                "total_issues": 1,
+                "total_issues_with_type": 1,
+                "total_features": 1,
                 "total_tasks": 0,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
-                "total_features_done": 0,
-                "total": 0
+                "total_features_done": 1,
+                "total": 1
             },
             "Iteration 1": {
                 "assigned_per_member": {
@@ -280,9 +280,9 @@
                 "total_tasks": 0,
                 "total_bugs": 0,
                 "total_features_backlog": 3,
-                "total_features_in_progress": 1,
+                "total_features_in_progress": 0,
                 "total_features_in_review": 0,
-                "total_features_done": 0,
+                "total_features_done": 1,
                 "total": 4
             },
             "total": {
@@ -321,35 +321,35 @@
                 "in_progress": 0,
                 "in_review": 0,
                 "done": 11,
-                "total_issues": 41,
-                "total_issues_with_type": 41,
-                "total_features": 30,
+                "total_issues": 42,
+                "total_issues_with_type": 42,
+                "total_features": 31,
                 "total_tasks": 11,
                 "total_bugs": 0,
                 "total_features_backlog": 3,
-                "total_features_in_progress": 1,
+                "total_features_in_progress": 0,
                 "total_features_in_review": 0,
-                "total_features_done": 26,
-                "total": 41
+                "total_features_done": 28,
+                "total": 42
             }
         }
     },
     "pull_requests": {
         "created": {
             "abeeet": 22,
-            "EricMorenoRuiz": 16,
+            "EricMorenoRuiz": 18,
             "Marcoss26": 17,
             "Thundeeerrr": 15
         },
         "merged_per_member": {
             "abeeet": 20,
             "EricMorenoRuiz": 15,
-            "Marcoss26": 15,
-            "Thundeeerrr": 13
+            "Marcoss26": 16,
+            "Thundeeerrr": 14
         },
-        "merged": 63,
-        "not_merged_by_author": 48,
+        "merged": 65,
+        "not_merged_by_author": 50,
         "closed": 7,
-        "total": 70
+        "total": 72
     }
 }
