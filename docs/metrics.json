@@ -11,9 +11,9 @@
         "abeeet": 77,
         "EricMorenoRuiz": 35,
         "Marcoss26": 40,
-        "Thundeeerrr": 26,
+        "Thundeeerrr": 27,
         "anonymous": 3,
-        "total": 181
+        "total": 182
     },
     "modified_lines": {
         "abeeet": {
@@ -32,23 +32,23 @@
             "modified": 4147
         },
         "Thundeeerrr": {
-            "additions": 36211,
-            "deletions": 18020,
-            "modified": 54231
+            "additions": 36546,
+            "deletions": 18081,
+            "modified": 54627
         },
         "total": {
-            "additions": 1554085,
-            "deletions": 1238452,
-            "modified": 2792537
+            "additions": 1554420,
+            "deletions": 1238513,
+            "modified": 2792933
         }
     },
     "commit_streak": {
         "abeeet": 0,
         "EricMorenoRuiz": 2,
         "Marcoss26": 1,
-        "Thundeeerrr": 2
+        "Thundeeerrr": 3
     },
-    "commit_merges": 95,
+    "commit_merges": 96,
     "longest_commit_streak_per_user": {
         "abeeet": 4,
         "EricMorenoRuiz": 4,
@@ -339,17 +339,17 @@
             "abeeet": 22,
             "EricMorenoRuiz": 18,
             "Marcoss26": 22,
-            "Thundeeerrr": 16
+            "Thundeeerrr": 17
         },
         "merged_per_member": {
-            "abeeet": 22,
+            "abeeet": 23,
             "EricMorenoRuiz": 16,
             "Marcoss26": 18,
             "Thundeeerrr": 15
         },
-        "merged": 71,
-        "not_merged_by_author": 55,
+        "merged": 72,
+        "not_merged_by_author": 56,
         "closed": 7,
-        "total": 78
+        "total": 79
     }
 }
