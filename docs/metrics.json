@@ -10,10 +10,10 @@
     "commits": {
         "abeeet": 77,
         "EricMorenoRuiz": 35,
-        "Marcoss26": 33,
+        "Marcoss26": 35,
         "Thundeeerrr": 26,
         "anonymous": 3,
-        "total": 174
+        "total": 176
     },
     "modified_lines": {
         "abeeet": {
@@ -27,9 +27,9 @@
             "modified": 85711
         },
         "Marcoss26": {
-            "additions": 2252,
-            "deletions": 1334,
-            "modified": 3586
+            "additions": 2270,
+            "deletions": 1339,
+            "modified": 3609
         },
         "Thundeeerrr": {
             "additions": 36211,
@@ -37,9 +37,9 @@
             "modified": 54231
         },
         "total": {
-            "additions": 1553558,
-            "deletions": 1238418,
-            "modified": 2791976
+            "additions": 1553576,
+            "deletions": 1238423,
+            "modified": 2791999
         }
     },
     "commit_streak": {
@@ -48,7 +48,7 @@
         "Marcoss26": 1,
         "Thundeeerrr": 2
     },
-    "commit_merges": 91,
+    "commit_merges": 92,
     "longest_commit_streak_per_user": {
         "abeeet": 4,
         "EricMorenoRuiz": 4,
@@ -59,7 +59,7 @@
         "assigned": {
             "abeeet": 13,
             "EricMorenoRuiz": 10,
-            "Marcoss26": 10,
+            "Marcoss26": 11,
             "Thundeeerrr": 7,
             "non_assigned": 6
         },
@@ -72,7 +72,7 @@
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
         "total_closed": 40,
-        "total": 46
+        "total": 47
     },
     "project": {
         "has_iterations": true,
@@ -274,16 +274,16 @@
                 "in_progress": 0,
                 "in_review": 0,
                 "done": 0,
-                "total_issues": 4,
-                "total_issues_with_type": 4,
-                "total_features": 4,
+                "total_issues": 5,
+                "total_issues_with_type": 5,
+                "total_features": 5,
                 "total_tasks": 0,
                 "total_bugs": 0,
                 "total_features_backlog": 3,
-                "total_features_in_progress": 0,
+                "total_features_in_progress": 1,
                 "total_features_in_review": 0,
                 "total_features_done": 1,
-                "total": 4
+                "total": 5
             },
             "total": {
                 "assigned_per_member": {
@@ -321,16 +321,16 @@
                 "in_progress": 0,
                 "in_review": 0,
                 "done": 11,
-                "total_issues": 42,
-                "total_issues_with_type": 42,
-                "total_features": 31,
+                "total_issues": 43,
+                "total_issues_with_type": 43,
+                "total_features": 32,
                 "total_tasks": 11,
                 "total_bugs": 0,
                 "total_features_backlog": 3,
-                "total_features_in_progress": 0,
+                "total_features_in_progress": 1,
                 "total_features_in_review": 0,
                 "total_features_done": 28,
-                "total": 42
+                "total": 43
             }
         }
     },
@@ -338,18 +338,18 @@
         "created": {
             "abeeet": 22,
             "EricMorenoRuiz": 18,
-            "Marcoss26": 19,
+            "Marcoss26": 20,
             "Thundeeerrr": 16
         },
         "merged_per_member": {
-            "abeeet": 21,
+            "abeeet": 22,
             "EricMorenoRuiz": 15,
             "Marcoss26": 18,
             "Thundeeerrr": 14
         },
-        "merged": 68,
-        "not_merged_by_author": 52,
+        "merged": 69,
+        "not_merged_by_author": 53,
         "closed": 7,
-        "total": 75
+        "total": 76
     }
 }
