@@ -8,47 +8,47 @@
         "Thundeeerrr": "https://avatars.githubusercontent.com/u/231907320?v=4"
     },
     "commits": {
-        "abeeet": 77,
-        "EricMorenoRuiz": 35,
-        "Marcoss26": 57,
-        "Thundeeerrr": 27,
+        "abeeet": 79,
+        "EricMorenoRuiz": 36,
+        "Marcoss26": 58,
+        "Thundeeerrr": 28,
         "anonymous": 3,
-        "total": 199
+        "total": 204
     },
     "modified_lines": {
         "abeeet": {
-            "additions": 1443223,
-            "deletions": 1205225,
-            "modified": 2648448
+            "additions": 1443248,
+            "deletions": 1208284,
+            "modified": 2651532
         },
         "EricMorenoRuiz": {
-            "additions": 71872,
-            "deletions": 13839,
-            "modified": 85711
+            "additions": 72510,
+            "deletions": 14615,
+            "modified": 87125
         },
         "Marcoss26": {
-            "additions": 19983,
-            "deletions": 8239,
-            "modified": 28222
+            "additions": 19998,
+            "deletions": 8254,
+            "modified": 28252
         },
         "Thundeeerrr": {
-            "additions": 36546,
-            "deletions": 18081,
-            "modified": 54627
+            "additions": 36548,
+            "deletions": 18083,
+            "modified": 54631
         },
         "total": {
-            "additions": 1571624,
-            "deletions": 1245384,
-            "modified": 2817008
+            "additions": 1572304,
+            "deletions": 1249236,
+            "modified": 2821540
         }
     },
     "commit_streak": {
-        "abeeet": 0,
-        "EricMorenoRuiz": 0,
-        "Marcoss26": 2,
-        "Thundeeerrr": 3
+        "abeeet": 1,
+        "EricMorenoRuiz": 1,
+        "Marcoss26": 0,
+        "Thundeeerrr": 1
     },
-    "commit_merges": 106,
+    "commit_merges": 112,
     "longest_commit_streak_per_user": {
         "abeeet": 4,
         "EricMorenoRuiz": 4,
@@ -64,14 +64,14 @@
             "non_assigned": 6
         },
         "closed": {
-            "abeeet": 11,
+            "abeeet": 13,
             "EricMorenoRuiz": 10,
-            "Marcoss26": 12,
-            "Thundeeerrr": 7
+            "Marcoss26": 14,
+            "Thundeeerrr": 8
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 42,
+        "total_closed": 48,
         "total": 51
     },
     "project": {
@@ -279,10 +279,10 @@
                 "total_features": 5,
                 "total_tasks": 0,
                 "total_bugs": 0,
-                "total_features_backlog": 2,
+                "total_features_backlog": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
-                "total_features_done": 3,
+                "total_features_done": 5,
                 "total": 9
             },
             "total": {
@@ -326,30 +326,30 @@
                 "total_features": 32,
                 "total_tasks": 11,
                 "total_bugs": 0,
-                "total_features_backlog": 2,
+                "total_features_backlog": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
-                "total_features_done": 30,
+                "total_features_done": 32,
                 "total": 47
             }
         }
     },
     "pull_requests": {
         "created": {
-            "abeeet": 22,
-            "EricMorenoRuiz": 18,
-            "Marcoss26": 30,
+            "abeeet": 25,
+            "EricMorenoRuiz": 19,
+            "Marcoss26": 31,
             "Thundeeerrr": 17
         },
         "merged_per_member": {
-            "abeeet": 23,
+            "abeeet": 26,
             "EricMorenoRuiz": 18,
-            "Marcoss26": 24,
-            "Thundeeerrr": 15
+            "Marcoss26": 25,
+            "Thundeeerrr": 16
         },
-        "merged": 80,
-        "not_merged_by_author": 58,
+        "merged": 85,
+        "not_merged_by_author": 60,
         "closed": 7,
-        "total": 87
+        "total": 92
     }
 }
